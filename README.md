@@ -16,7 +16,7 @@ Resume: https://jyotivgupta.github.io/portfolio/
 
 ### Certifications
 
-[![Tableau Public](https://github.com/your-github-username/your-repository-name/raw/main/assets/tableau-logo.png)](https://public.tableau.com/profile/yourprofile)
+[![Credly Badge](https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-designer-advanced-certification.png)](https://www.credly.com/badges/41b3015f-cba3-40e9-b696-ddc243bccaae/public_url)
 
  
 - 🌱 I’m currently learning ...
