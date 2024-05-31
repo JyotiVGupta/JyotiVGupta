@@ -16,6 +16,7 @@ Resume: https://jyotivgupta.github.io/portfolio/
 
 ### Certifications
 
+[![Tableau Public](https://github.com/your-github-username/your-repository-name/raw/main/assets/tableau-logo.png)](https://public.tableau.com/profile/yourprofile)
 
  
 - 🌱 I’m currently learning ...
