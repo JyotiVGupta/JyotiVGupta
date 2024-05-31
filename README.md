@@ -1,8 +1,22 @@
-### 🙋‍♀️ Hi!! I’m Jyoti
+## 🙋‍♀️ Hi!! I’m Jyoti           
+ 
  I'm a certified Data Analyst specializing in Tableau and Alteryx, with extensive experience in SQL.
- With Over 2 years of experience in the industry, I am passionate about transforming data into actionable insights and deriving business decisions  🚀📊
+ With over 2 years of experience in the industry, I am passionate about transforming data into actionable insights and driving business decisions  🚀📊
+   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgupta306/) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jgupta306/))
+### Portfolio
+
+Tableau Public: https://public.tableau.com/app/profile/jyoti.v.gupta/vizzes
+
+Alteryx Community: https://community.alteryx.com/t5/user/viewprofilepage/user-id/263782
+
+Resume: https://jyotivgupta.github.io/portfolio/
+
+
+### Certifications
+
+[![Credly Badge](https://www.credly.com/badges/41b3015f-cba3-40e9-b696-ddc243bccaae)](https://www.credly.com/earned/your-badge-id)
 
  
 - 🌱 I’m currently learning ...
