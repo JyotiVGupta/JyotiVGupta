@@ -16,7 +16,7 @@ Resume: https://jyotivgupta.github.io/portfolio/
 
 ### Certifications
 
-[![Credly Badge](https://www.credly.com/badges/41b3015f-cba3-40e9-b696-ddc243bccaae)](https://www.credly.com/earned/your-badge-id)
+<img src ="https://www.credly.com/badges/41b3015f-cba3-40e9-b696-ddc243bccaae"  >
 
  
 - 🌱 I’m currently learning ...
