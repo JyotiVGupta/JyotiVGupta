@@ -18,6 +18,10 @@ Resume: https://jyotivgupta.github.io/portfolio/
 
 [![Credly Badge](https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-designer-advanced-certification.png)](https://www.credly.com/badges/41b3015f-cba3-40e9-b696-ddc243bccaae/public_url)
 
+
+https://www.credly.com/badges/84b44c11-0cbf-4bdb-95d7-b87987a023f8/public_url
+
+
  
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
