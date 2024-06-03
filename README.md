@@ -4,7 +4,7 @@ I'm a certified Data Analyst specializing in Tableau and Alteryx, with experienc
    
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgupta306/) 
 
-## Portfolio/Profile
+## Portfolio/Profiles
 
 Tableau Public: https://public.tableau.com/app/profile/jyoti.v.gupta/vizzes
 
