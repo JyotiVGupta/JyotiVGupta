@@ -30,11 +30,9 @@ You can click the Preview link to take a look at your changes.
 ## Data Viz Projects
 
 
-  <a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/EntryLeveljobs/Dashboard1">
-    <img src="https://public.tableau.com/thumb/views/EntryLeveljobs/Dashboard1" width ="49%">
-  </a>
+
 <a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/RecruitmentAnalysis_17151917794460/Overview">
-    <img src="https://public.tableau.com/thumb/views/RecruitmentAnalysis_17151917794460/AccountAnalysis" width ="50%" >
+    <img src="https://public.tableau.com/thumb/views/RecruitmentAnalysis_17151917794460/AccountAnalysis" width ="49%" >
   </a>
 
 <a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/LAPDIncidentreportingbyarea/LAPDincidents">
@@ -45,7 +43,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://public.tableau.com/thumb/views/CommonlyConsumedVegetable/Commonlyconsumedvegetable" width ="49%" >
   </a>
 
- 
+   <a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/EntryLeveljobs/Dashboard1">
+    <img src="https://public.tableau.com/thumb/views/EntryLeveljobs/Dashboard1" width ="49%">
+  </a>
 
 ## SQL Challenges
  ### ◈ Murder Mystery Challenge
