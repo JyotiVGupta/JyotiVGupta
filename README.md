@@ -20,7 +20,7 @@ Resume: https://jyotivgupta.github.io/portfolio/
   </a>
 &emsp;
   <a href="https://www.credly.com/badges/84b44c11-0cbf-4bdb-95d7-b87987a023f8/public_url">
-    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/tableau-desktop-certified-associate.png"  >
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/tableau-desktop-certified-associate.png" width ="10%"  >
   </a>
 
 <br/>
