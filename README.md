@@ -15,9 +15,10 @@ Resume: https://jyotivgupta.github.io/portfolio/
 
 ## Certifications
 
-[![Credly Badge](https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-designer-advanced-certification.png)](https://www.credly.com/badges/41b3015f-cba3-40e9-b696-ddc243bccaae/public_url) 
+[![Credly Badge](https://github.com/JyotiVGupta/JyotiVGupta/blob/main/tableau-desktop-certified-associate.png)](https://www.credly.com/badges/199c53a9-6b23-43b8-993c-d164a3a266ce/public_url)
 
-[![Credly Badge](https://github.com/JyotiVGupta/JyotiVGupta/blob/main/tableau-desktop-certified-associate.png)](https://www.credly.com/badges/84b44c11-0cbf-4bdb-95d7-b87987a023f8/public_url)
+[![Credly Badge](https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-designer-advanced-certification.png)](https://www.credly.com/badges/41b3015f-cba3-40e9-b696-ddc243bccaae/public_url)     [![Credly Badge](https://github.com/JyotiVGupta/JyotiVGupta/blob/main/tableau-desktop-certified-associate.png)](https://www.credly.com/badges/4003ef1e-8eb8-493b-b287-cad57a3f0f64/public_url)
+
 
 
 <!---
