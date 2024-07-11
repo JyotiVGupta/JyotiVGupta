@@ -103,7 +103,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
- ###### *(click the image to open the corresponding repository)*
+ ###### *(click an image to open the corresponding repository)*
 
  #### **SQL Techniques Used**
 - Common Table Expressions and multi-key Joins
@@ -119,7 +119,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" width ="20%" >
 </a>
 
- ###### *(click the image to open the corresponding repository)*
+ ###### *(click an image to open the corresponding repository)*
 
  #### **SQL/Snowflake Techniques Used**
 - Common Table Expressions and multi-key Joins
