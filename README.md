@@ -69,13 +69,64 @@ You can click the Preview link to take a look at your changes.
 ## SQL Challenges
  ### ◈ Murder Mystery Challenge
 
+<a href="https://github.com/JyotiVGupta/SQL-Murder-Mystery">
+    <img src="https://github.com/JyotiVGupta/SQL-Murder-Mystery/blob/main/Images/Icon.png" width ="20%" >
+</a>
 
+ ###### *(click the image to open the repository)*
+
+ #### **SQL Techniques Used**
+- Queries with constraints (WHERE, AND/OR, IN, BETWEEN, LIKE, etc.)
+- Filtering and Sorting Query (e.g. ORDER BY, and LIMIT)
+- Table Joins
    
  ### ◈ Preppin'Data Challenges using SQL
 
+<a href="https://github.com/JyotiVGupta/Preppn-Challenge-2023-Week-1">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsUOKkk8GcZYYwhHsBtfsNqZc6v2zc0zSnbhAbgfrUF98cdN7ai6ShPZmtJZuRZzio8v2Sovo6QtrzA45eM0Jne3o33sXcE6gmD9qI_j37ABO6eOD7T3cIXQtszMD31hWSNq7AH43Jm5VQdpTOTnfBangz2d_69itGY6ya1qXEPx7d7IWgdleiM_WZSw/w640-h228/Screenshot%202023-01-02%20at%2019.58.57.png" width ="30%" >
+</a>
+ &emsp;
+<a href="https://github.com/JyotiVGupta/Preppn-Challenge-2023-Week-2">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg6cHU6JOCWWyUbCGBixif-Cj3CvRJNRr3RFzcpG7kI8zzL3eAWKBZPdu2UVqivMHILO-zaT2bJ9F2iaNfVWgZIAro_IOwwKi-GjJFVQyJ_O9iE-0X7Iin4vZxbqHiuEsPQp2nDtIjAARQ_aCrSbnmJU6LiU7L64P3gzS68jU9b7_ScOnYI3LOciKGwUw" width ="30%" >
+</a>
+
+<br/>
+
+
+<a href="https://github.com/JyotiVGupta/Preppn-Challenge-2023-Week-3">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEi5t8Gjk3PuCXgJN9slk6ja37iyookPwAsuBVF3mPTrlH54H4Qpn1a3ailr1sA-Hb0JA8cEyPcZY8MbkflCEq9zPcLmzIimWXKxRuryUdAaqNJRMN3LDfUk5BnvEx-IiIpna4tH2NSZEAduoFhvzZbz9BC3WnGP1uYQx5TpaWUDWjvdkosAEzR017rRqQ=w640-h228" width ="30%" >
+</a>
+&emsp;
+<a href="https://github.com/JyotiVGupta/Preppn-Challenge-2023-Week-4">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiaT8Ijorc_YYWPq3od7zn-iyjOm2qzEdvgd0QHLYL7VTuJc5kiNM-SnT3da40PRBJYbNSK1pZs2mp13ieNm2gLXxg1QGI4QXYSYI0FepBFkEl-k25mBRALEfzecQkU16UcUnnWhjFPlg5ZJn0vUFzC9oXTAMN2MzDR6JC4Rcxjx2CNHnJ2kF4U0fQOEQ" width ="20%" >
+</a>
+
+
+
+ ###### *(click the image to open the corresponding repository)*
+
+ #### **SQL Techniques Used**
+- Common Table Expressions and multi-key Joins
+- Aggregation and column type conversion
+- Queries with constraints (WHERE, AND/OR, IN, BETWEEN, LIKE, etc.)
+- Filtering and Sorting Query (e.g. ORDER BY, and LIMIT)
+- Table Joins
+- Pivot & Removing Duplicates
 
  ### ◈ 8WeeksSQLchallenges
 
+<a href="https://github.com/JyotiVGupta/8-Week-SQL-Challenge-Case-Study-1">
+    <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" width ="20%" >
+</a>
+
+ ###### *(click the image to open the corresponding repository)*
+
+ #### **SQL/Snowflake Techniques Used**
+- Common Table Expressions and multi-key Joins
+- Aggregation and column type-conversion
+- Queries with constraints
+- Filtering and sorting
+- CASE Statement
   
     
 
