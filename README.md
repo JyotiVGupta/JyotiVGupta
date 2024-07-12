@@ -10,6 +10,8 @@ Tableau Public: https://public.tableau.com/app/profile/jyoti.v.gupta/vizzes
 
 Alteryx Community: https://community.alteryx.com/t5/user/viewprofilepage/user-id/263782
 
+Alteryx Mentor Connect: https://mentor.alteryx.com/advisors/advanced-analytics/jyoti-gupta-12fe317c-e618-4047-ae17-c858c32a36e2?q=Jyoti
+
 Resume: https://jyotivgupta.github.io/portfolio/
 
 
