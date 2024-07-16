@@ -17,32 +17,33 @@ Resume: https://jyotivgupta.github.io/portfolio/
 
 ## Certifications
 
+ <a href="https://www.credly.com/badges/84b44c11-0cbf-4bdb-95d7-b87987a023f8/public_url">
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/tableau-desktop-certified-associate.png" width ="12%"  >
+  </a>
+  
 <a href="https://www.credly.com/badges/199c53a9-6b23-43b8-993c-d164a3a266ce/public_url">
-    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/tableau-certified-data-analyst.1.png" width ="10%" >
-  </a>
-&emsp;
-  <a href="https://www.credly.com/badges/84b44c11-0cbf-4bdb-95d7-b87987a023f8/public_url">
-    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/tableau-desktop-certified-associate.png" width ="10%"  >
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/tableau-certified-data-analyst.1.png" width ="12%" >
   </a>
 
-<br/>
+ <br/>
+ 
 
-
-<a href="https://www.credly.com/badges/41b3015f-cba3-40e9-b696-ddc243bccaae/public_url">
-    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-designer-advanced-certification.png" width ="10%" >     
-</a>    
-   &emsp;
-  <a href="https://www.credly.com/badges/4003ef1e-8eb8-493b-b287-cad57a3f0f64/public_url">
-    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/machine-learning-fundamentals-micro-credential.png" width ="10%" >
-  </a>
- &emsp;
   <a href="https://www.credly.com/badges/489db20e-ec82-4659-beaa-b19c9a4e6a04/public_url">
     <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-designer-core-certification.png" width ="10%" >
   </a>
+  &emsp;
+ <a href="https://www.credly.com/badges/41b3015f-cba3-40e9-b696-ddc243bccaae/public_url">
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-designer-advanced-certification.png" width ="10%" >     
+</a>  
 
+  <br/>
+  
+ <a href="https://www.credly.com/badges/4003ef1e-8eb8-493b-b287-cad57a3f0f64/public_url">
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/machine-learning-fundamentals-micro-credential.png" width ="10%" >
+  </a>
  &emsp;
   <a href="https://www.credly.com/badges/883ebcb3-6bb5-4d6e-86ef-a858b92f5de7/public_url">
-    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-designer-core-certification.png" width ="10%" >
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-auto-insights-micro-credential.png" width ="10%" >
   </a>
 <!---
 JyotiVGupta/JyotiVGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
