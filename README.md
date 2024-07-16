@@ -40,7 +40,10 @@ Resume: https://jyotivgupta.github.io/portfolio/
     <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-designer-core-certification.png" width ="10%" >
   </a>
 
-
+ &emsp;
+  <a href="https://www.credly.com/badges/883ebcb3-6bb5-4d6e-86ef-a858b92f5de7/public_url">
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-designer-core-certification.png" width ="10%" >
+  </a>
 <!---
 JyotiVGupta/JyotiVGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
