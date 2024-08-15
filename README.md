@@ -1,6 +1,6 @@
 # 🙋‍♀️ Hi!! I’m Jyoti           
  
-I'm a certified Data Analyst specializing in Tableau, Alteryx, and SQL to derive actionable insights from complex datasets. I create impactful visualizations and comprehensive analytics to support strategic business objectives. 🚀📊
+I am a certified Consulting Data Analyst with over 3 years of experience working for clients across a wide range of industries. Specialization includes Tableau, Alteryx, and SQL. Skilled in end-to-end project execution, from designing and building customized data solutions to effectively engaging with stakeholders. Proficient in client and stakeholder management. Notable achievement includes scoping and developing an efficient Active Support Ticket tracker dashboard which boosted resolution efficiency by 40%. . 🚀📊
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgupta306/) 
 
