@@ -48,12 +48,12 @@ Resume: https://jyotivgupta.github.io/portfolio/
 
   <br/>
   
- <a href="https://www.credly.com/badges/4003ef1e-8eb8-493b-b287-cad57a3f0f64/public_url">
-    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/machine-learning-fundamentals-micro-credential.png" width ="10%" >
+ <a href="https://achieve.snowflake.com/4d442814-c867-4c2e-8b52-61547255fee9">
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/blog_snowflake_badge.png" width ="10%" >
   </a>
  &emsp;
-  <a href="https://www.credly.com/badges/883ebcb3-6bb5-4d6e-86ef-a858b92f5de7/public_url">
-    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-auto-insights-micro-credential.png" width ="10%" >
+  <a href="https://credentials.getdbt.com/f5ac9726-2ebe-4f47-b200-ed696ec99da7">
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/dbt.png" width ="10%" >
   </a>
 <!---
 JyotiVGupta/JyotiVGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
