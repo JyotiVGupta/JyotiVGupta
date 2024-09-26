@@ -1,6 +1,6 @@
 # 🙋‍♀️ Hi!! I’m Jyoti           
  
-I am a certified Consulting Data Analyst with over 3 years of experience working for clients across a wide range of industries. Specialization includes Tableau, Alteryx, and SQL. Skilled in end-to-end project execution, from designing and building customized data solutions to effectively engaging with stakeholders. Proficient in client and stakeholder management. Notable achievement includes scoping and developing an efficient Active Support Ticket tracker dashboard which boosted resolution efficiency by 40%. . 🚀📊
+I am a certified Consulting Data Analyst with over 3 years of experience working for clients across various industries (Telecommunication, Healthcare, Pharmaceutical, Recruitment, Travel, and Logistics). Specialization includes Tableau, Alteryx, and SQL. Skilled in end-to-end project execution, from designing and building customized data solutions to effectively engaging with stakeholders. Proficient in client and stakeholder management. Notable achievements include scoping and developing an efficient Active Support Ticket tracker dashboard which boosted resolution efficiency by 40%. . 🚀📊
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgupta306/) 
 
@@ -35,6 +35,16 @@ Resume: https://jyotivgupta.github.io/portfolio/
  <a href="https://www.credly.com/badges/41b3015f-cba3-40e9-b696-ddc243bccaae/public_url">
     <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-designer-advanced-certification.png" width ="10%" >     
 </a>  
+
+  <br/>
+  
+ <a href="https://www.credly.com/badges/4003ef1e-8eb8-493b-b287-cad57a3f0f64/public_url">
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/machine-learning-fundamentals-micro-credential.png" width ="10%" >
+  </a>
+ &emsp;
+  <a href="https://www.credly.com/badges/883ebcb3-6bb5-4d6e-86ef-a858b92f5de7/public_url">
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/alteryx-auto-insights-micro-credential.png" width ="10%" >
+  </a>
 
   <br/>
   
