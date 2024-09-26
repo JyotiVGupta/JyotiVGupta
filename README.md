@@ -74,8 +74,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://public.tableau.com/thumb/views/LAPDIncidentreportingbyarea/LAPDincidents" width ="50%" >
   </a>
 
- <a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/CommonlyConsumedVegetable/Commonlyconsumedvegetable">
-    <img src="https://public.tableau.com/thumb/views/CommonlyConsumedVegetable/Commonlyconsumedvegetable" width ="49%" >
+ <a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/OfficeSpaceAnalysis_17266104594690/overview">
+    <img src="https://public.tableau.com/thumb/views/OfficeSpaceAnalysis_17266104594690/overview" width ="49%" >
   </a>
 
    <a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/EntryLeveljobs/Dashboard1">
