@@ -55,6 +55,11 @@ Resume: https://jyotivgupta.github.io/portfolio/
   <a href="https://credentials.getdbt.com/f5ac9726-2ebe-4f47-b200-ed696ec99da7">
     <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/dbt.png" width ="10%" >
   </a>
+ &emsp;
+  <a href="https://credentials.getdbt.com/f5ac9726-2ebe-4f47-b200-ed696ec99da7">
+    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/dbt.png" width ="10%" >
+  </a>
+  
 <!---
 JyotiVGupta/JyotiVGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -65,21 +70,22 @@ You can click the Preview link to take a look at your changes.
 ## Data Viz Projects
 
 
+<a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/WebTrafficDashboard_17283124930700/KPICards">
+    <img src="https://public.tableau.com/thumb/views/WebTrafficDashboard_17283124930700/KPICards" width ="48%" >
+  </a>
+ &emsp;
 
 <a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/RecruitmentAnalysis_17151917794460/Overview">
-    <img src="https://public.tableau.com/thumb/views/RecruitmentAnalysis_17151917794460/AccountAnalysis" width ="49%" >
+    <img src="https://public.tableau.com/thumb/views/RecruitmentAnalysis_17151917794460/AccountAnalysis" width ="48%" >
   </a>
 
-<a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/LAPDIncidentreportingbyarea/LAPDincidents">
-    <img src="https://public.tableau.com/thumb/views/LAPDIncidentreportingbyarea/LAPDincidents" width ="50%" >
-  </a>
 
  <a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/OfficeSpaceAnalysis_17266104594690/overview">
-    <img src="https://public.tableau.com/thumb/views/OfficeSpaceAnalysis_17266104594690/overview" width ="49%" >
+    <img src="https://public.tableau.com/thumb/views/OfficeSpaceAnalysis_17266104594690/overview" width ="48%" >
   </a>
-
+ &emsp;
    <a href="https://public.tableau.com/app/profile/jyoti.v.gupta/viz/EntryLeveljobs/Dashboard1">
-    <img src="https://public.tableau.com/thumb/views/EntryLeveljobs/Dashboard1" width ="49%">
+    <img src="https://public.tableau.com/thumb/views/EntryLeveljobs/Dashboard1" width ="48%">
   </a>
 
 ## SQL Challenges
