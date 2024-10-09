@@ -55,11 +55,7 @@ Resume: https://jyotivgupta.github.io/portfolio/
   <a href="https://credentials.getdbt.com/f5ac9726-2ebe-4f47-b200-ed696ec99da7">
     <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/dbt.png" width ="10%" >
   </a>
- &emsp;
-  <a href="https://credentials.getdbt.com/f5ac9726-2ebe-4f47-b200-ed696ec99da7">
-    <img src="https://github.com/JyotiVGupta/JyotiVGupta/blob/main/dbt.png" width ="10%" >
-  </a>
-  
+ 
 <!---
 JyotiVGupta/JyotiVGupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
